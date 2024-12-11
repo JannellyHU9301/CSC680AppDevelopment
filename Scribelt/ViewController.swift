@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     var speechRecognizer: SFSpeechRecognizer?
     var request = SFSpeechAudioBufferRecognitionRequest()
     var recognitionTask: SFSpeechRecognitionTask?
-
+vvvv
     // MARK: - Lifecycle Methods
     override func viewDidLoad() {
         super.viewDidLoad()
